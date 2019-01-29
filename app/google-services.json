@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1012037695969",
+    "firebase_url": "https://uas-ahwan0m.firebaseio.com",
+    "project_id": "uas-ahwan0m",
+    "storage_bucket": "uas-ahwan0m.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012037695969:android:d5f9ebbd2a5f1e40",
+        "android_client_info": {
+          "package_name": "site.ahwan0m.blogger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012037695969-17c6ljrijkbnaj00bmdn97tbsd5bsco0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "site.ahwan0m.blogger",
+            "certificate_hash": "5ac50a16ce261ec98ac357904cf61c0a209a6834"
+          }
+        },
+        {
+          "client_id": "1012037695969-p1s5qtpjibjqktl9ublngu7pqal5o99v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByk0bbTyMIJHVHl5ds27wJgjs6qmZtW44"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012037695969-p1s5qtpjibjqktl9ublngu7pqal5o99v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

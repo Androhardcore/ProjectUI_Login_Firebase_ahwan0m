@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="orcastart">#44A08D</color>
+    <color name="orcasend">#093637</color>
+    <color name="whitecollor">#ffff</color>
+    <color name="vbstart">#0575E6</color>
+    <color name="vbend">#021B79</color>
+    <color name="lovecouplestart">#3a6186</color>
+    <color name="lovecoupleend"> #89253e </color>
+    <color name="colorBackground">#413e4f</color>
+    <color name="colorText">#FFFFFF</color>
+    <color name="colorTextHint">#51d8c7</color>
+</resources>

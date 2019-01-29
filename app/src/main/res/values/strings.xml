@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Blogger</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_text">Masuk</string>
+    <string name="text_dftar_akun">Tidak memiliki akun?Daftar disini</string>
+    <string name="motivasi_dikit">Sukses adalah sebuah perjalanan, bukan tujuan akhir\n~ Ben Sweetland ~</string>
+    <style name="google_sign_id_token">1012037695969-ruducqp6j2qgveat1vv5i1418bmlv3f3.apps.googleusercontent.com</style>
+</resources>
